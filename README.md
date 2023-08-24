@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zicolli
-- 👀 I’m interested in Programming and English art of communication 
-- 🌱 I’m currently learning Software engineering with ALX Africa 
+- 👋 Hi, I’m @Zicolli (Isaac)
+- 👀 I love to write codes and love to teach English art of communication 
+- 🌱 I’m currently learning Frontend development at Scrimba and Udemy
 - 💞️ I’m looking to collaborate on everyone with mutual interest as me
 - 📫 How to reach me on my email: charleszicky24@gmail.com
 
