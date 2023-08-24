@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend development at Scrimba and Udemy
 - 💞️ I’m looking to collaborate on everyone with mutual interest as me
 - 📫 How to reach me on my email: IsaacMaduchigozie@gmail.com
-
+or message me on Twitter @IsaacMadu9
 <!---
 Zicolli/Zicolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
