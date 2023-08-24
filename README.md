@@ -2,7 +2,7 @@
 - 👀 I love to write codes and love to teach English art of communication 
 - 🌱 I’m currently learning Frontend development at Scrimba and Udemy
 - 💞️ I’m looking to collaborate on everyone with mutual interest as me
-- 📫 How to reach me on my email: charleszicky24@gmail.com
+- 📫 How to reach me on my email: IsaacMaduchigozie@gmail.com
 
 <!---
 Zicolli/Zicolli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
