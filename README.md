@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zicolli (Isaac)
 - 👀 I love to write codes and love to teach English art of communication 
-- 🌱 I’m currently learning Frontend development at Scrimba and Udemy
-- 💞️ I’m looking to collaborate on everyone with mutual interest as me
+- 🌱 I’m a Frontend developer
+- 💞️ I’m looking to collaborate with everyone with mutual interest as me
 - 📫 How to reach me on my email: IsaacMaduchigozie@gmail.com
 or message me on Twitter @IsaacMadu9
 <!---
